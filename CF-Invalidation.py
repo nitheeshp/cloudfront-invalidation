@@ -31,7 +31,7 @@
 ########################################################################
 
 
-# Place your credntials placed your credentials in your $HOME/.boto
+# Place your credntials placed in your $HOME/.boto
 
 # Create file invalid.txt in the same script directory  and place your paths of objects to be invalidated
 
