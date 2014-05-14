@@ -37,7 +37,7 @@
 
 import boto
 def main():
-        distid = 'E85H8P4G220BZ'
+        distid = 'xxxxxxxxxx'
         invalidationfilepath = '/home/ec2-user/invalid.txt'
         paths  = open(invalidationfilepath,"r+")
         conn = boto.connect_cloudfront()
